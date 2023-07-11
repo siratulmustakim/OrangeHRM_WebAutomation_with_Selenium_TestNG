@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Orange HRM Test Automation">
+
+    <suite-files>
+        <suite-file path="AdminSuite.xml"></suite-file>
+<!--        <suite-file path="EmployeeSuite.xml"></suite-file>-->
+    </suite-files>
+
+
+</suite>
+

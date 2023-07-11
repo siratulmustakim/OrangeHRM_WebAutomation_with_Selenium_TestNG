@@ -1,0 +1,15 @@
+<suite thread-count="1" verbose="1" name="Orange HRM Portal Automation">
+
+    <test name="Employee login by newly created creds">
+        <classes>
+            <class name="testrunner.EmployeeLoginTestRunner"/>
+        </classes>
+    </test>
+
+    <test name="Employee update his info">
+        <classes>
+            <class name="testrunner.UpdateInfoTestRunner"/>
+        </classes>
+    </test>
+
+</suite>
